@@ -1,0 +1,15 @@
+.espacio {
+  margin: 10px;
+  padding: 10px 3px 10px 3px;
+}
+
+.tipografia {
+  font-family: 'Anton', sans-serif;
+  color: white;
+  background-color: blue;
+}
+
+.button:active {
+  font-family: 'Oswald', sans-serif;
+  background-color: green;
+}
